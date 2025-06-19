@@ -10,9 +10,6 @@ Leves alterações em geral na planilha desenvolvida nas aulas do Professor Feli
 
 Pode ser encontrada para baixar e abrir localmente no arquivo Excel: [controle_investimentos](/controle_investimentos.xlsx).
 
-![Aplicação - Topo](/images/principal-cima.png)
-![Aplicação - Abaixo](/images/principal-baixo.png)
-
 ---
 
 ## Outros Recursos
@@ -21,10 +18,6 @@ Pode ser encontrada para baixar e abrir localmente no arquivo Excel: [controle_i
 
 Uma função da Validação de Dados da Seleção de Perfil do Investidor para esclarecer a razão da célula, com título e descrição simples e objetiva para o usuário final.
 
-![Mensagem de Entrada de Dados](/images/mensagem-entrada.png)
-
 ### Tabela de Apoio
 
 A Tabela de Apoio utilizada para resgatar o percentual de cada Perfil, utilizando PROCV, na planilha principal, que: identifica a devida Chave Composta (combinação do nome do Perfil com o Tipo de FII) na própria tabela principal, busca a linha certa na tabela de apoio e acha o percentual na coluna especificada.
-
-![Tabela de Apoio](/images/tabela-apoio.png)
